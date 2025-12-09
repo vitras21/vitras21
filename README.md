@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 **Currently exploring:** the wild adventure called **life lol**  
 - 🌱 **Learning:** the magical world of **three.js** (3D graphics here I come!)  
-- 👯 **Open to collabs:** literally **anything creative or chaotic**  
+- 👯 **Open to collabs:** literally **anything creative, chaotic or technical**  
 - 🤔 **Need help with:** well… everything? Just kidding 😅 But seriously, advice or tips are always welcome!  
 - 💬 **Ask me about:** programming, film, filmmaking, VFX, musicals, acting, mathematics, physics… basically **all the things**  
 - 📫 **Reach me:** via [my website](#) (or send a carrier pigeon 🕊️)  
