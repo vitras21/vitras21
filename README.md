@@ -17,14 +17,15 @@ Here are some ideas to get you started:
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Nunito&pause=1000&color=F7B327&width=435&lines=Hey!;I+am+vitras21;(Vitaly.R);It's+nice+to+see+your+here" alt="Typing SVG" /></a>
 
-- 🔭 I’m currently working on **life lol**
-- 🌱 I’m currently learning **three.js**
-- 👯 I’m looking to collaborate on **anything!!!**
-- 🤔 I’m looking for help with **wdm help what help, jk if you can help with anything or offer advice please do**
-- 💬 Ask me about **programing, film, filmaking, vfx, musicals, acting, mathematics, physics & anything else**
-- 📫 How to reach me: **thu my website**
-- 😄 Pronouns: **he/his**
-- ⚡ Fun fact: **the longest essay i've written for fun is 74 pages (yes it was fun idk how)**
+- 🔭 **Currently exploring:** the wild adventure called **life lol**  
+- 🌱 **Learning:** the magical world of **three.js** (3D graphics here I come!)  
+- 👯 **Open to collabs:** literally **anything creative or chaotic**  
+- 🤔 **Need help with:** well… everything? Just kidding 😅 But seriously, advice or tips are always welcome!  
+- 💬 **Ask me about:** programming, film, filmmaking, VFX, musicals, acting, mathematics, physics… basically **all the things**  
+- 📫 **Reach me:** via [my website](#) (or send a carrier pigeon 🕊️)  
+- 😄 **Pronouns:** he/his  
+- ⚡ **Fun fact:** longest essay I wrote for fun? **74 pages!** (Yes, it was actually fun… don’t ask why 😎)
+
 
 ## 🛠️ Languages and Tools
 
