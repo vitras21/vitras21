@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Nunito&pause=1000&color=F7B327&width=435&lines=Hey!;I+am+vitras21;(Vitaly.R);It's+nice+to+see+your+here" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Nunito&duration=4000&pause=500&color=F7B327&width=435&lines=Hey!;I+am+vitras21;(Vitaly.R);It's+nice+to+see+your+here" alt="Typing SVG" /></a>
 
 - 🔭 **Currently exploring:** the wild adventure called **life lol**  
 - 🌱 **Learning:** the magical world of **three.js** (3D graphics here I come!)  
