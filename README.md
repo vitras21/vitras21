@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 👯 **Open to collabs:** literally **anything creative, chaotic or technical**  
 - 🤔 **Need help with:** well… everything? Just kidding 😅 But seriously, advice or tips are always welcome!  
 - 💬 **Ask me about:** programming, film, filmmaking, VFX, musicals, acting, mathematics, physics… basically **all the things**  
-- 📫 **Reach me:** via [my website](#) (or send a carrier pigeon 🕊️)  
+- 📫 **Reach me:** via [my website](#https://vitras21.github.io/website/) (or send a carrier pigeon 🕊️)  
 - 😄 **Pronouns:** he/his  
 - ⚡ **Fun fact:** longest essay I wrote for fun? **74 pages!** (Yes, it was actually fun… don’t ask why 😎)
 
