@@ -32,7 +32,49 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,css,html,js,git" />
+<h3>💻 Programming Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,py" />
+</p>
+
+<h3>🌐 Web Devs & Runtimes</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,vue,threejs" />
+</p>
+
+<h3>📦 Bundling, Building & Deployment</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=webpack,vite,netlify,vercel,docker" />
+</p>
+
+<h3>🗄️ Databases & Data Management</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sqlite,supabase" />
+</p>
+
+<h3>🛠️ Developer Tools & Environments</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,visualstudio,pycharm,vim,emacs,powershell,bash,selenium" />
+</p>
+
+<h3>🎨 Design, Multimedia & 3D</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ai,ps,ae,pr,au,blender,sketchup" />
+</p>
+
+<h3>📊 Monitoring & Observability</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+</p>
+
+<h3>📝 Documentation & Markup</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=latex,md,obsidian" />
+</p>
+
+<h3>🍎 Platfom</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=apple" />
 </p>
 
 <hr>
